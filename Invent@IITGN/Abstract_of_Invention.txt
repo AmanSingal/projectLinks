@@ -5,3 +5,5 @@ Two clamps, one on either side of the stool permit the stool to be rotated to th
 The user now clamps from one of the side of the wheelchair and rotates the stool towards the target. The seat itself is rotatable
 about its centre and the height of the seat can independently be adjusted to match the target. The user performs these adjustments
 and slides herself onto the target. The device may be removed when not in use.
+
+Provisional Patent Application has been filed in both USA(Application No.- 62911386) and India(Application No.- 201911027333).
